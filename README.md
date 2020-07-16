@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hello! I'm Steeve</h1>
+<h3 align="center">Hello! I'm Steeve 👋</h1>
 
 <p align="center">
   <a href="https://steevep.com">Blog</a> •
