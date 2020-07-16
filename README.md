@@ -1,7 +1,3 @@
-# 
-
-[Twitter]() • [Linkedin](https://www.linkedin.com/in/steeve-payraudeau/) • [Website]()
-
 <h3 align="center">👋 Hello! I'm Steeve</h1>
 
 <p align="center">
