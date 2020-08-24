@@ -3,8 +3,7 @@
 <p align="center">
   <a href="https://dev.to/steeve">Blog</a> •
   <a href="https://twitter.com/SteevePay">Twitter</a> •
-  <a href="https://www.linkedin.com/in/steeve-payraudeau/">Linkedin</a> •
-  <a href="https://steevep.com">Website (WIP)</a>
+  <a href="https://www.linkedin.com/in/steeve-payraudeau/">Linkedin</a>
 </p>
 
 ---
