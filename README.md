@@ -10,6 +10,7 @@
 ---
 
 ### Latest articles
+- [Creating dynamic reports with CarboneJS V2 🔥](https://dev.to/steeve/creating-dynamic-reports-with-carbonejs-v2-kfj)
 - [Manage a multiple websites server with Docker Compose, NGINX and auto SSL certificates ](https://dev.to/steeve/manage-a-multiple-websites-server-with-docker-compose-nginx-and-auto-ssl-certificates-298)
 - [Vuejs app on CleverCloud + HTTPS redirection in few minutes](https://dev.to/steeve/vuejs-app-on-clevercloud-https-redirection-in-few-minutes-gpf)
 - [Multilingual website with Nuxt, Express and Tailwind 🌍](https://dev.to/steeve/osteo-multilingual-website-with-nuxt-express-and-tailwind-jc9)
