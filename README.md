@@ -1,7 +1,10 @@
 <h3 align="center">Hello! I'm Steeve 👋</h1>
 
 <p align="center">
-  <a href="https://dev.to/steeve">Blog</a> •
+  <a href="https://dev.to/steeve">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Steeve's DEV Profile" height="15" width="15">
+    Blog
+  </a> •
   <a href="https://twitter.com/SteevePay">Twitter</a> •
   <a href="https://www.linkedin.com/in/steeve-payraudeau/">Linkedin</a>
 </p>
