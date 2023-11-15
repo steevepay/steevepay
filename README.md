@@ -12,6 +12,7 @@
 ---
 
 ### Latest articles
+- [Build and run RiotJS applications with ViteJS](https://dev.to/steeve/riotjs-vitejs-tutorial-fpn)
 - [Discover Sclone: sync S3 and Swift storages across multiple cloud providers and locations](https://dev.to/steeve/discover-sclone-sync-s3-and-swift-storages-across-multiple-cloud-providers-and-locations-34e5)
 - [Creating dynamic reports with CarboneJS V2 🔥](https://dev.to/steeve/creating-dynamic-reports-with-carbonejs-v2-kfj)
 - [Manage a multiple websites server with Docker Compose, NGINX and auto SSL certificates ](https://dev.to/steeve/manage-a-multiple-websites-server-with-docker-compose-nginx-and-auto-ssl-certificates-298)
